@@ -6,5 +6,4 @@ public class TestNG_Test {
 	{
 		System.out.println("Welcome in TestNG");
 	}
-	
 }
